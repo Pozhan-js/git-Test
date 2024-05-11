@@ -1,3 +1,7 @@
 commit err 1 edit
 
 commit err 2
+
+commit err 3 edit
+
+commit err 4 edit ert
